@@ -13,7 +13,6 @@ const Background = styled.div`
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
-
 `;
 
 const Title = styled.h1`
@@ -78,8 +77,8 @@ const LandingPage = () => {
 
   return (
     <Background>
-      <Title>Welcome to ThusoAI</Title>
-      <Subtitle>The ultimate AI buddy for Farmers</Subtitle>
+      <Title>Welcome to FarmWise</Title>
+      <Subtitle>A place that can help you turn your farm dream into something different</Subtitle>
       <Form onSubmit={handleSubmit}>
         <Input
           type="text"

@@ -6,7 +6,7 @@ CORS(app)
 
 @app.route('/', methods=['GET'])
 def home():
-    return "Welcome to the Flask backend!"
+    return "SERVER IS RUNNING!!"
 
 @app.route('/login', methods=['POST'])
 def login():
@@ -14,7 +14,6 @@ def login():
     print("Received data:", data)  # Debug print
     username = data['username']
     password = data['password']
-    # Add your authentication logic here
     return jsonify({"message": "Login successful"})
 
 if __name__ == '__main__':
