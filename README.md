@@ -1,1 +1,1 @@
-Welcome to FarmQuest, your go-to guide for everything farming! This website is designed to introduce new farmers to the basics of farming, explore different types of farms, and provide essential information and resources.
+Welcome to FarmWise, your go-to guide for everything farming! This website is designed to introduce new farmers to the basics of farming, explore different types of farms, and provide essential information and resources.
